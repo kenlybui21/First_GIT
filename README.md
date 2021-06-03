@@ -1,2 +1,2 @@
 # First_GIT
-Study how to use GITHUP
+Study how to use GitHub
