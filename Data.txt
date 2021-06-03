@@ -5,3 +5,4 @@ Git status
 Git add *
 Git commit -m "..."
 Git push
+Git commit -a -m "..."
