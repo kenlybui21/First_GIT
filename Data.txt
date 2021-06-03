@@ -1,4 +1,5 @@
 Kenly Bui - 2021/06/03
+link: https://www.youtube.com/watch?v=DExk4RUn8Y4
 Add data
 Git clone
 Git status
@@ -6,3 +7,6 @@ Git add *
 Git commit -m "..."
 Git push
 Git commit -a -m "..."
+Git log
+Git revert
+Git pull
