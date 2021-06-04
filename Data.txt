@@ -10,3 +10,6 @@ Git commit -a -m "..."
 Git log
 Git revert
 Git pull
+Git init
+Git remote origin http......
+git push -u orgin master
