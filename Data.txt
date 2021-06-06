@@ -13,3 +13,6 @@ Git pull
 Git init
 Git remote origin http......
 git push -u orgin master
+
+git branch -M Master
+
