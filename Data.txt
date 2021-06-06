@@ -16,3 +16,8 @@ git push -u orgin master
 
 git branch -M Master
 
+
+git branch -m main master
+git fetch origin
+git branch -u origin/master master
+git remote set-head origin -a
